@@ -1,0 +1,21 @@
+{
+  "name": "z-ip",
+  "version": "0.0.1",
+  "description": "Obtain external network IP and internal network IP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "author": "taevas",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.1.1",
+    "npm": "2.14.x"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "superagent": "^1.7.2",
+    "validator": "^4.8.0"
+  }
+}
